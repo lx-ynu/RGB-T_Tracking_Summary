@@ -5,7 +5,7 @@
 
 ### 2024
 
-* **MVTTG**: Jiahao Wang, Fang Liu, Licheng Jiao. Multi-modal visual tracking based on textual generation.
+* **MVTTG**: Jiahao Wang, Fang Liu, Licheng Jiao. Multi-modal visual tracking based on textual generation. Information Fusion. [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253524003099)
 
 
 
