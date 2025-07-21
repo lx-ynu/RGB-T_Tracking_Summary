@@ -2,8 +2,10 @@
 
 ### 2025
 
+
 ### 2024
 
+* **MVTTG**: Jiahao Wang, Fang Liu, Licheng Jiao. Multi-modal visual tracking based on textual generation.
 
 
 
