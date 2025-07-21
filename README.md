@@ -15,6 +15,11 @@
 
 2. [2] Multi-modal tracking has garnered significant attention due to its wide range of potential applications. Existing multi-modal tracking approaches typically merge data from different visual modalities on top of RGB tracking.
 
+<ol style="list-style-type:none;">
+  <li>[1] Multi-modal tracking has garnered significant attention due to its wide range of potential applications. Existing multi-modal tracking approaches typically merge data from different visual modalities on top of RGB tracking.</li>
+  <li>[2] Another reference or piece of information regarding multi-modal tracking or another subject matter.</li>
+</ol>
+
 **2024**
 
 **2023**
