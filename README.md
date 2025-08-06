@@ -1,7 +1,7 @@
 # RGB-T Tracking Summary
 
 ### 2025
-* **SUTrack**: Xin Chen, Ben Kang, Wanting Geng. Towards Simple and Unified Single Object Tracking. **_AAAI_**. [[paper]]() [[code]]() _Dalian University of Technology_
+* **SUTrack**: Xin Chen, Ben Kang, Wanting Geng. Towards Simple and Unified Single Object Tracking. **_AAAI_**. [[paper]]() [[code]]()
 
 ### 2024
 
